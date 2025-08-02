@@ -134,10 +134,11 @@ font:
     #family: monospace
     #family: Menlo
     #family: Bitstream Vera Sans Mono
-    family: DejaVu Sans Mono
+    #family: DejaVu Sans Mono
+    family: DejaVuSansM Nerd Font Mono
 
     # The `style` can be specified to pick a specific face.
-    #style: Regular
+    style: Regular
 
   # Bold font face
   bold:
@@ -147,10 +148,11 @@ font:
     # value specified for the normal font.
     #family: Menlo
     #family: Bitstream Vera Sans Mono
-    family: DejaVu Sans Mono
+    #family: DejaVu Sans Mono
+    family: DejaVuSansM Nerd Font Mono
 
     # The `style` can be specified to pick a specific face.
-    #style: Bold
+    style: Bold
 
   # Italic font face
   italic:
@@ -160,10 +162,11 @@ font:
     # value specified for the normal font.
     #family: Menlo
     #family: Bitstream Vera Sans Mono
-    family: DejaVu Sans Mono
+    #family: DejaVu Sans Mono
+    family: DejaVuSansM Nerd Font Mono
 
     # The `style` can be specified to pick a specific face.
-    #style: Italic
+    style: Italic
 
   # Bold italic font face
   bold_italic:
@@ -173,7 +176,8 @@ font:
     # value specified for the normal font.
     #family: Menlo
     #family: Bitstream Vera Sans Mono
-    family: DejaVu Sans Mono
+    #family: DejaVu Sans Mono
+    family: DejaVuSansM Nerd Font Mono
 
     # The `style` can be specified to pick a specific face.
     #style: Bold Italic
