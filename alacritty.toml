@@ -41,6 +41,6 @@ resize_increments = false
 startup_mode = "Windowed"
 
 [general]
-import = ["/home/jrroman/.config/alacritty/themes/rose-pine.toml"]
+import = ["~/.config/alacritty/theme/rose-pine.toml"]
 
 [terminal]
