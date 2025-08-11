@@ -1,0 +1,46 @@
+[cursor.style]
+blinking = "On"
+shape = "Block"
+
+[font]
+size = 9.0
+
+[font.bold]
+family = "DejaVuSansM Nerd Font Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "DejaVuSansM Nerd Font Mono"
+style = "Bold Italic"
+
+[font.italic]
+family = "DejaVuSansM Nerd Font Mono"
+style = "Italic"
+
+[font.normal]
+family = "DejaVuSansM Nerd Font Mono"
+style = "Regular"
+
+[font.offset]
+x = 1
+y = 1
+
+[scrolling]
+history = 10000
+
+[selection]
+#"save_to_clipbo#ard" = false
+
+[terminal.shell]
+program = "/bin/zsh"
+
+[window]
+decorations_theme_variant = "None"
+opacity = 1.0
+resize_increments = false
+startup_mode = "Windowed"
+
+[general]
+import = ["/home/jrroman/.config/alacritty/themes/rose-pine.toml"]
+
+[terminal]
