@@ -41,6 +41,6 @@ resize_increments = false
 startup_mode = "Windowed"
 
 [general]
-import = ["~/.config/alacritty/theme/rose-pine.toml"]
+import = ["~/.config/alacritty/theme/tokyonight.toml"]
 
 [terminal]
