@@ -7,18 +7,22 @@ size = 9.0
 
 [font.bold]
 family = "DejaVuSansM Nerd Font Mono"
+# family = "DejaVu Sans Mono"
 style = "Bold"
 
 [font.bold_italic]
 family = "DejaVuSansM Nerd Font Mono"
+# family = "DejaVu Sans Mono"
 style = "Bold Italic"
 
 [font.italic]
 family = "DejaVuSansM Nerd Font Mono"
+# family = "DejaVu Sans Mono"
 style = "Italic"
 
 [font.normal]
 family = "DejaVuSansM Nerd Font Mono"
+# family = "DejaVu Sans Mono"
 style = "Regular"
 
 [font.offset]
@@ -41,6 +45,6 @@ resize_increments = false
 startup_mode = "Windowed"
 
 [general]
-import = ["~/.config/alacritty/theme/tokyonight.toml"]
+import = ["~/.config/alacritty/theme/carbonfox.toml"]
 
 [terminal]
