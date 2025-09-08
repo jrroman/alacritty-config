@@ -45,6 +45,6 @@ resize_increments = false
 startup_mode = "Windowed"
 
 [general]
-import = ["~/.config/alacritty/theme/carbonfox.toml"]
+import = ["~/.config/alacritty/theme/tomorrow-night.toml"]
 
 [terminal]
