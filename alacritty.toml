@@ -3,7 +3,11 @@ blinking = "On"
 shape = "Block"
 
 [font]
-size = 12.0
+size = 14.0
+
+[font.offset]
+x = 0
+y = 1
 
 [font.bold]
 family = "DejaVuSansM Nerd Font Mono"
@@ -24,10 +28,6 @@ style = "Italic"
 family = "DejaVuSansM Nerd Font Mono"
 # family = "Source Code Pro"
 style = "Regular"
-
-[font.offset]
-x = 0
-y = 1
 
 [scrolling]
 history = 10000
@@ -50,6 +50,6 @@ WINIT_X11_SCALE_FACTOR = "1.0"
 [general]
 live_config_reload = true
 working_directory = "None"
-import = ["~/.config/alacritty/theme/carbonfox.toml"]
+import = ["~/.config/alacritty/theme/tomorrow-night.toml"]
 
 [terminal]
