@@ -1,5 +1,10 @@
 [colors.primary]
-background = "#14161b"
+# original color
+# background = "#14161b"
+# background = "#1d1f21" # midnight obsidian
+# background = "#15191c" # baikal abyss
+background = "#101316" # midnight forge
+# background = "#131315"
 foreground = "#E0E2EA"
 dim_foreground = "#C4C6CD"
 bright_foreground = "#E0E2EA"
