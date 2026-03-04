@@ -50,6 +50,10 @@ WINIT_X11_SCALE_FACTOR = "1.0"
 [general]
 live_config_reload = true
 working_directory = "None"
-import = ["~/.config/alacritty/theme/tomorrow-night.toml"]
+# Favorite themes: tomorrow_night, jr_nvim_dark, google, midnight_haze, gotham, gnome_terminal, rose_pine
+#import = ["~/.config/alacritty/theme/tomorrow_night.toml"]
+#import = ["~/.config/alacritty/themes/midnight_haze.toml"]
+#import = ["~/.config/alacritty/themes/google.toml"]
+import = ["~/.config/alacritty/themes/jr_nvim_dark.toml"]
 
 [terminal]
