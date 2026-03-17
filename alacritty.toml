@@ -17,17 +17,17 @@ style = "Bold"
 [font.bold_italic]
 family = "DejaVuSansM Nerd Font Mono"
 # family = "Source Code Pro"
-style = "Bold Italic"
+style = "Bold Oblique"
 
 [font.italic]
 family = "DejaVuSansM Nerd Font Mono"
 #family = "Source Code Pro"
-style = "Italic"
+style = "Oblique"
 
 [font.normal]
 family = "DejaVuSansM Nerd Font Mono"
 # family = "Source Code Pro"
-style = "Regular"
+# style = "Regular"
 
 [scrolling]
 history = 10000
